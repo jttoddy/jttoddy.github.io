@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Functional Programming: an Introduction
+title: "Functional Programming: an Introduction"
 ---
 
 # Functional Programming: an Introduction
