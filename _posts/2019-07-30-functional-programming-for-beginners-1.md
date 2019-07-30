@@ -1,3 +1,8 @@
+---
+layout: post
+title: Functional Programming: an Introduction
+---
+
 # Functional Programming: an Introduction
 
 Welcome to the first of what could (if there's enough interest) be a few posts on functional programming and its application to our day-to-day work as software engineers. Whether you're working in mobile, web, or backend services - it is important to understand the current landscape of development languages, programming paradigms and how many platforms are slowly migrating to a multi-paradigm language architecture.
