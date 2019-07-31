@@ -54,9 +54,9 @@ Or maybe that was just me - I was a pretty dumb kid.
 
 Eventually we were introduced to a familiar syntax: `f(x) = x` or even `f(x) = ax^2 + bx + c`. Hopefully most of you by now are understanding what I'm getting at.
 
-The first statement's syntax roughly translates to the following: "A function, f, with some input, x, will output the evaluation of the expression, f." So `f(2)` will output 2.
+The first statement's syntax roughly translates to the following: "A function, f, with some input, x, will output the evaluation of the expression, f." So for `f(x) = x` the invocation of `f(2)` will output 2.
 
-### Why am I bringing up ~old nightmares~ high school maths
+### Why am I bringing up old nightmares of high school?
 
 Something your high school math teacher probably didn't explicitly teach you, but will almost certainly be common sense at this point, are something called the _Axioms of Algebra_. These axioms in essence define the bounds of what defines something called a Pure Function.
 
@@ -261,7 +261,7 @@ val something: (Any) -> String = { x ->
 ```
 
 Rust is on a similar train, but with weirder syntax.
-(Value referencing syntax is probably not valid. Trained professioal at work here - always validate your code before posting, kids.)
+(Value referencing syntax is probably not valid. Trained professional at work here - always validate your code before posting, kids.)
 
 ```rs
 let something = |i: &fmt::Display| -> String {
@@ -640,3 +640,5 @@ stylesToApply(button)
 Using functions in clever ways eliminates some bloat invoked by redundant abstraction in OOP while also providing clean, reusable code. It's definitely not an obvious step when writing your code, especially when you've been raised in an Object-oriented world, but once you start appreciating the power of first-class functions, closures, lambdas, and the way your language already uses them you can do crazy-neat stuff.
 
 In future posts I'll get into some of the more intermediate to complex parts of FP, like argument operators, function injection and composition. Until then, I would love to hear your feedback!
+
+[Your comments and feedback are much appreciated - get in touch!](https://github.com/jttoddy/jttoddy.github.io/issues/1)
