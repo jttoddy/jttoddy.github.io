@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Functional Programming: an Introduction"
+description: "Aimed at Swift and Kotlin devs - an introductory guide to the fundamentals of functional programming, and how they can be applied in your existing OOP code."
 ---
 
 # Functional Programming: an Introduction
